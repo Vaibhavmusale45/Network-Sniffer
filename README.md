@@ -1,4 +1,4 @@
-# CodeAlpha Basic Network Sniffer
+#  Basic Network Sniffer
 
 A professional, beginner-friendly Python network packet sniffer created for the CodeAlpha cybersecurity internship task. It uses Scapy to capture authorized traffic on Kali Linux, displays a concise packet summary, maintains capture statistics, and writes structured records to CSV.
 
