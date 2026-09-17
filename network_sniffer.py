@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""CodeAlpha Basic Network Sniffer.
+""" Basic Network Sniffer.
 
 This tool is intended for authorized educational and laboratory use only.
 Packet capture should be performed on Kali Linux or another Linux system.
@@ -17,7 +17,7 @@ from scapy.all import ICMP, IP, TCP, UDP, Raw, conf, sniff
 
 
 BANNER = """===============================================================
-             CODEALPHA BASIC NETWORK SNIFFER
+              BASIC NETWORK SNIFFER
 ===============================================================
 
 [INFO] Authorized-use educational tool
